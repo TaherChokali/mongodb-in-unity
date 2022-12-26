@@ -24,12 +24,11 @@
   
 <h1>How To Connect In Unity</h1>
 <br/>
+
+
 ### Untyped Documents
 ```C#
 private MongoClient _clientdb;
 _clientdb = new MongoClient(_serverData._mongoURI);
 ```
-```C#
-using MongoDB.Bson;
-using MongoDB.Driver;
-```
+
