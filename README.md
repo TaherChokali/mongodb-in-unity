@@ -25,10 +25,9 @@
 <h1>How To Connect In Unity</h1>
 <br/>
 
-
 ### Untyped Documents
 ```C#
-private MongoClient _clientdb;
-_clientdb = new MongoClient("mongodb://127.0.0.1:27017");
+private MongoClient _client;
+_client = new MongoClient("mongodb://127.0.0.1:27017");
 ```
 
