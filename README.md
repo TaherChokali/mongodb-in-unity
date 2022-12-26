@@ -7,15 +7,16 @@
 <h1>Add Dlls file</h1>
 <br/>
 
-1.Download Zipfile
-2.Extract Folder
-3.Import Folder In unity
+<ol>
+  <li>Download Zipfile</li>
+  <li>Extract Folder</li>
+  <li>Import Folder In unity</li>
+</ol>
 <br/>
 
 <h1>Requirements</h1>
 <br/>
 <ul>
   <li>Unity 2021.x and after</li>
-<li>.Net 4.7.2
-</li>
+<li>.Net 4.7.2</li>
   </ul>
