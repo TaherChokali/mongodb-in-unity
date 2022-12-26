@@ -18,5 +18,10 @@
 <br/>
 <ul>
   <li>Unity 2021.x and after</li>
-<li>.Net 4.7.2</li>
-  </ul>
+  <li>.Net 4.7.2</li>
+</ul>
+  
+  
+<h1>How To Connect In Unity</h1>
+<blockquote>private MongoClient _clientdb;
+_clientdb = new MongoClient(_serverData._mongoURI);</blockquote>
