@@ -29,3 +29,7 @@
 private MongoClient _clientdb;
 _clientdb = new MongoClient(_serverData._mongoURI);
 ```
+```C#
+using MongoDB.Bson;
+using MongoDB.Driver;
+```
