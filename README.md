@@ -26,5 +26,5 @@
 <br/>
 ```csharp
 private MongoClient _clientdb;
-_clientdb = new MongoClient(_serverData._mongoURI);</blockquote>
+_clientdb = new MongoClient(_serverData._mongoURI);
 ```
