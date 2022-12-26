@@ -14,7 +14,8 @@
 
 <h1>Requirements</h1>
 <br/>
-
-Unity 2021.x and after
-.Net 4.7.2
-
+<ul>
+  <li>Unity 2021.x and after</li>
+<li>.Net 4.7.2
+</li>
+  </ul>
