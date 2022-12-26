@@ -29,6 +29,6 @@
 ### Untyped Documents
 ```C#
 private MongoClient _clientdb;
-_clientdb = new MongoClient(_serverData._mongoURI);
+_clientdb = new MongoClient("mongodb://127.0.0.1:27017");
 ```
 
